@@ -33,14 +33,14 @@ Run the Python script to start the game.
 
 **Outcomes:**
 
-Enhanced Python Skills: Improved understanding of Python syntax and logic.
-GUI Development Experience: Gained hands-on experience with Tkinter for building graphical user interfaces.
-Problem-Solving Abilities: Sharpened ability to break down problems and implement game mechanics.
-Random Number Generation: Practical use of the random module to generate random numbers.
-User Interaction Handling: Learned to handle user input and provide real-time feedback.
-Project Completion: Satisfaction of completing a functional project from start to finish.
-Resetting Game Logic: Implemented logic to reset the game, enhancing user experience.
-Feedback Mechanism: Developed a system to guide users to the correct guess.
+1. Enhanced Python Skills: Improved understanding of Python syntax and logic.
+2. GUI Development Experience: Gained hands-on experience with Tkinter for building graphical user interfaces.
+3. Problem-Solving Abilities: Sharpened ability to break down problems and implement game mechanics.
+4. Random Number Generation: Practical use of the random module to generate random numbers.
+5. User Interaction Handling: Learned to handle user input and provide real-time feedback.
+6. Project Completion: Satisfaction of completing a functional project from start to finish.
+7. Resetting Game Logic: Implemented logic to reset the game, enhancing user experience.
+8. Feedback Mechanism: Developed a system to guide users to the correct guess.
 
 
 **Contributing:**
